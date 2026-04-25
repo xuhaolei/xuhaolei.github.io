@@ -1,0 +1,78 @@
+{
+  "updated": "2026-04-25T14:58:16.598906+00:00",
+  "citedby": 102,
+  "publications": {
+    "Wg2cuHUAAAAJ:LkGwnXOMwfcC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:LkGwnXOMwfcC",
+      "bib": {
+        "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
+        "pub_year": "2026"
+      },
+      "num_citations": 0,
+      "cite_url": ""
+    },
+    "Wg2cuHUAAAAJ:YsMSGLbcyi4C": {
+      "author_pub_id": "Wg2cuHUAAAAJ:YsMSGLbcyi4C",
+      "bib": {
+        "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
+        "pub_year": "2025"
+      },
+      "num_citations": 11,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
+    },
+    "Wg2cuHUAAAAJ:WF5omc3nYNoC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:WF5omc3nYNoC",
+      "bib": {
+        "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
+        "pub_year": "2025"
+      },
+      "num_citations": 9,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
+    },
+    "Wg2cuHUAAAAJ:ufrVoPGSRksC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:ufrVoPGSRksC",
+      "bib": {
+        "title": "Let LLMs Break Free from Overthinking via Self-Braking Tuning",
+        "pub_year": "2025"
+      },
+      "num_citations": 20,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16628112274765565311"
+    },
+    "Wg2cuHUAAAAJ:u-x6o8ySG0sC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:u-x6o8ySG0sC",
+      "bib": {
+        "title": "Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning",
+        "pub_year": "2025"
+      },
+      "num_citations": 7,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7965617716609371703"
+    },
+    "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
+      "author_pub_id": "Wg2cuHUAAAAJ:d1gkVwhDpl0C",
+      "bib": {
+        "title": "A survey on (m) llm-based gui agents",
+        "pub_year": "2025"
+      },
+      "num_citations": 51,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,17298897713330488334"
+    },
+    "Wg2cuHUAAAAJ:_FxGoFyzp5QC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:_FxGoFyzp5QC",
+      "bib": {
+        "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL",
+        "pub_year": "2025"
+      },
+      "num_citations": 3,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
+    },
+    "Wg2cuHUAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:9yKSN-GCB0IC",
+      "bib": {
+        "title": "GDReBase: a Knowledge Base for relations between human gut microbes and diseases based on deep learning",
+        "pub_year": "2023"
+      },
+      "num_citations": 1,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9361625504881051330"
+    }
+  }
+}
