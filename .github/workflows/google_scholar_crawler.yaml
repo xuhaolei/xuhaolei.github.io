@@ -1,0 +1,55 @@
+name: Get Citation Data
+
+on:
+  page_build:
+  schedule:
+    - cron: '0 */6 * * *'
+
+concurrency:
+  group: google-scholar-crawler
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Reqs
+        run: pip install --no-cache-dir -r google_scholar_crawler/requirements.txt
+      - name: Run
+        run: |
+          cd ./google_scholar_crawler
+          python3 main.py
+
+          cd ..
+          export remote_repo="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+
+          if git clone --depth 1 --single-branch --branch google-scholar-stats "${remote_repo}" ./google-scholar-stats; then
+            echo "Fetched existing google-scholar-stats branch"
+          else
+            git clone --depth 1 "${remote_repo}" ./google-scholar-stats
+            cd ./google-scholar-stats
+            git checkout --orphan google-scholar-stats
+            git rm -rf . >/dev/null 2>&1 || true
+            cd ..
+          fi
+
+          cp ./google_scholar_crawler/results/*.json ./google-scholar-stats/
+          cd ./google-scholar-stats
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add *.json
+
+          if git diff --cached --quiet; then
+            echo "No citation changes detected, skip push."
+            exit 0
+          fi
+
+          git commit -m "Updated Citation Data"
+          git push origin google-scholar-stats
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
