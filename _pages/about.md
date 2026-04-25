@@ -86,6 +86,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <div style="display: inline">
   <a href="https://arxiv.org/pdf/2604.08541"><strong>[paper]</strong></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:LkGwnXOMwfcC" href="" target="_blank"></a>
 </div>
 
 </div>
@@ -104,6 +105,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   <a href="https://zju-real.github.io/CoT-Bridge/"><strong>[page]</strong></a>
   <a href="https://mp.weixin.qq.com/s/Gjz9CLEGngOBpKRnZ_GC_A"><strong>[机器之心]</strong></a>
   <a href="https://github.com/ZJU-REAL/Mind-the-Gap" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Mind-the-Gap?style=social"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:u-x6o8ySG0sC" href="" target="_blank"></a>
 </div>
 
 </div>
@@ -121,6 +123,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   <a href="https://github.com/ZJU-REAL/EasySteer"><strong>[code]</strong></a>
   <a href="https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg"><strong>[机器之心]</strong></a>
   <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
 </div>
 
 </div>
