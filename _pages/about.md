@@ -77,7 +77,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   }
 </style>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/seeing_but_not_thinking_teaser.png' alt="Seeing but Not Thinking teaser" width="100%"><p class="paper-caption"><i>Identifies the <strong>Seeing but Not Thinking</strong> phenomenon in multimodal MoE models and proposes a routing-guided fix.</i></p></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/seeing_but_not_thinking_teaser.png' alt="Seeing but Not Thinking teaser" width="100%"><p class="paper-caption"><i>🔍 Identifies the <strong>Seeing but Not Thinking</strong> phenomenon in multimodal MoE models and proposes a routing-guided fix.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**](https://arxiv.org/abs/2604.08541)
@@ -96,7 +96,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mind_the_gap_teaser.png' alt="Mind the Gap teaser" width="100%"><p class="paper-caption"><i>Addresses <strong>Thought Leap</strong> in CoT datasets by automatically detecting and bridging missing intermediate reasoning steps.</i></p></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mind_the_gap_teaser.png' alt="Mind the Gap teaser" width="100%"><p class="paper-caption"><i>🧩 Addresses <strong>Thought Leap</strong> in CoT datasets by automatically detecting and bridging missing intermediate reasoning steps.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**](https://arxiv.org/abs/2505.14684)
@@ -119,16 +119,16 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>A unified, production-ready LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>🚀 A unified LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**](https://arxiv.org/abs/2509.25175)
 
 <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>
 
-- Addresses three critical limitations of prior steering frameworks — **computational inefficiency**, limited extensibility, and restricted functionality — via modular, pluggable architecture.
-- Achieves **10.8–22.3× inference speedup** over existing frameworks through deep vLLM integration, maintaining 81–91% baseline throughput under multi-vector configurations.
-- Demonstrates broad effectiveness: overthinking mitigation reduces tokens by **40%**, hallucination reduction yields **+12%** accuracy gains, with pre-built vectors across **8** application domains.
+- Modular, pluggable architecture addressing inefficiency and limited extensibility of prior steering frameworks.
+- **10.8–22.3× inference speedup** via deep vLLM integration; 81–91% baseline throughput under multi-vector use.
+- Overthinking mitigation (tokens **↓40%**), hallucination reduction (**+12%** accuracy), 8 pre-built domains.
 
 <div style="display: inline">
   <a href="https://arxiv.org/pdf/2509.25175"><strong>[paper]</strong></a>
