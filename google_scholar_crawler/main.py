@@ -96,6 +96,11 @@ def main():
 
     print(f"Total citations: {total_citations}")
     print(f"Publications found: {len(publications)}")
+
+    if not publications:
+        print("[skip] Parsed 0 publications — likely a soft block or empty response. Keeping existing data.")
+        raise SystemExit(0)
+
     for pub in publications.values():
         title = pub["bib"].get("title", "?")[:60]
         print(f"  {pub['num_citations']:4d}  {title}")
