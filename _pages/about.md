@@ -90,6 +90,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <div style="display: inline">
   <a href="https://arxiv.org/pdf/2604.08541"><strong>[paper]</strong></a>
+  <a href="https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng"><strong>[PaperWeekly]</strong></a>
   <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:LkGwnXOMwfcC" href="" target="_blank"></a>
 </div>
 
@@ -233,7 +234,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Conference Papers</h3>
 
-<a href="https://arxiv.org/abs/2604.08541" target="_blank"><img src="https://img.shields.io/badge/ACL-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen<sup>‡</sup>, Weiming Lu<sup>‡</sup>, Yueting Zhuang, &quot;**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**&quot;. In *Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [[paper](https://arxiv.org/pdf/2604.08541)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:LkGwnXOMwfcC" href="" target="_blank"></a>
+<a href="https://arxiv.org/abs/2604.08541" target="_blank"><img src="https://img.shields.io/badge/ACL-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen<sup>‡</sup>, Weiming Lu<sup>‡</sup>, Yueting Zhuang, &quot;**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**&quot;. In *Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [[paper](https://arxiv.org/pdf/2604.08541)] [[PaperWeekly](https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:LkGwnXOMwfcC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2505.14684" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2025-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Yuchen Yan<sup>\*</sup>, Yongliang Shen<sup>‡</sup>, Wenqi Zhang, Guiyang Hou, Shengpei Jiang, Kaitao Song, Weiming Lu<sup>‡</sup>, Jun Xiao, Yueting Zhuang, &quot;**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**&quot;. In *Advances in Neural Information Processing Systems (NeurIPS)*, 2025. [[paper](https://arxiv.org/pdf/2505.14684)] [[code](https://github.com/ZJU-REAL/Mind-the-Gap)] [[page](https://zju-real.github.io/CoT-Bridge/)] [[机器之心](https://mp.weixin.qq.com/s/Gjz9CLEGngOBpKRnZ_GC_A)] <a href="https://github.com/ZJU-REAL/Mind-the-Gap" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Mind-the-Gap?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:u-x6o8ySG0sC" href="" target="_blank"></a>
 
