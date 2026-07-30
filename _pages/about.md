@@ -123,6 +123,27 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/relay_opd_teaser.png' alt="Relay-OPD teaser" width="100%"><p class="paper-caption"><i>🏃 Fixes <strong>prefix failure</strong> in on-policy distillation by letting the teacher briefly take over, then handing the trajectory back to the student.</i></p></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Pass the Baton: Trajectory-Relayed On-Policy Distillation**](https://arxiv.org/abs/2607.26057)
+
+<u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen
+
+- Identifies **prefix failure** in on-policy distillation and a teacher–student **continuation asymmetry** on failed prefixes, converted into a label-free handoff trigger.
+- Constructs **relay trajectories**: the teacher briefly takes over at trigger points to produce a teacher leg, after which the student resumes generation.
+- Best or second-best on all **8 math reasoning benchmarks**: **+5.73%** over standard OPD and **+1.49%** over FastOPD at 1.7B, with training trajectory length reduced by **50%+**.
+
+<div style="display: inline">
+  <a href="https://arxiv.org/pdf/2607.26057"><strong>[paper]</strong></a>
+  <a href="https://github.com/ZJU-REAL/Relay-OPD"><strong>[code]</strong></a>
+  <a href="https://zju-real.github.io/Relay-OPD/"><strong>[page]</strong></a>
+  <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>🚀 A unified LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -251,7 +272,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Preprints & Under Submission</h3>
 
-<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
+<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] [[page](https://zju-real.github.io/Relay-OPD/)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
 
 <a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.25175-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. *arXiv preprint arXiv:2509.25175*, 2025. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
 
