@@ -1,15 +1,42 @@
 {
-  "updated": "2026-04-25T15:23:04.981449+00:00",
-  "citedby": 102,
+  "updated": "2026-07-30T14:42:06.977770+00:00",
+  "citedby": 145,
   "publications": {
-    "Wg2cuHUAAAAJ:LkGwnXOMwfcC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:LkGwnXOMwfcC",
+    "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
+      "author_pub_id": "Wg2cuHUAAAAJ:3fE2CSJIrl8C",
       "bib": {
-        "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
+        "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
+        "pub_year": "2026"
+      },
+      "num_citations": 2,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
+    },
+    "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:MXK_kJrjxJIC",
+      "bib": {
+        "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
         "pub_year": "2026"
       },
       "num_citations": 0,
       "cite_url": ""
+    },
+    "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:Se3iqnhoufwC",
+      "bib": {
+        "title": "Let LRMs break free from overthinking via self-braking tuning",
+        "pub_year": "2026"
+      },
+      "num_citations": 26,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16628112274765565311"
+    },
+    "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:roLk4NBRz8UC",
+      "bib": {
+        "title": "Mind the gap: Bridging thought leap for improved chain-of-thought tuning",
+        "pub_year": "2026"
+      },
+      "num_citations": 7,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7965617716609371703"
     },
     "Wg2cuHUAAAAJ:YsMSGLbcyi4C": {
       "author_pub_id": "Wg2cuHUAAAAJ:YsMSGLbcyi4C",
@@ -17,7 +44,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 11,
+      "num_citations": 17,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
     },
     "Wg2cuHUAAAAJ:WF5omc3nYNoC": {
@@ -26,26 +53,8 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 9,
+      "num_citations": 12,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
-    },
-    "Wg2cuHUAAAAJ:ufrVoPGSRksC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:ufrVoPGSRksC",
-      "bib": {
-        "title": "Let LLMs Break Free from Overthinking via Self-Braking Tuning",
-        "pub_year": "2025"
-      },
-      "num_citations": 20,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16628112274765565311"
-    },
-    "Wg2cuHUAAAAJ:u-x6o8ySG0sC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:u-x6o8ySG0sC",
-      "bib": {
-        "title": "Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning",
-        "pub_year": "2025"
-      },
-      "num_citations": 7,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7965617716609371703"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
       "author_pub_id": "Wg2cuHUAAAAJ:d1gkVwhDpl0C",
@@ -53,16 +62,16 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 51,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,17298897713330488334"
+      "num_citations": 74,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,6956625760677509433,17298897713330488334"
     },
-    "Wg2cuHUAAAAJ:_FxGoFyzp5QC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:_FxGoFyzp5QC",
+    "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
+      "author_pub_id": "Wg2cuHUAAAAJ:hqOjcs7Dif8C",
       "bib": {
-        "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL",
+        "title": "Db-explore: Automated database exploration and instruction synthesis for text-to-sql",
         "pub_year": "2025"
       },
-      "num_citations": 3,
+      "num_citations": 6,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
     },
     "Wg2cuHUAAAAJ:9yKSN-GCB0IC": {
