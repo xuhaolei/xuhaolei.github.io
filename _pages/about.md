@@ -17,6 +17,9 @@ redirect_from:
 
 <div class="news-scroll" markdown="1">
 
+* **2026.07** 📢 [Pass the Baton](https://arxiv.org/abs/2607.26057) is released, relaying teacher trajectories for on-policy distillation! [[code](https://github.com/ZJU-REAL/Relay-OPD)]
+* **2026.07** 📢 [Perceive-to-Reason](https://arxiv.org/abs/2607.01191) is released, decoupling perception and reasoning for fine-grained visual reasoning! [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)]
+* **2026.05** 🎤 Invited talk at《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center! [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
 * **2026.04** 🎉 One paper has been accepted by **ACL 2026** (Main), about routing distraction in multimodal Mixture-of-Experts ([Seeing but Not Thinking](https://arxiv.org/abs/2604.08541))!
 * **2025.09** 🎉 Two papers have been accepted by **NeurIPS 2025**, including [Mind the Gap](https://arxiv.org/abs/2505.14684) about chain-of-thought tuning and [Self-Braking Tuning](https://arxiv.org/abs/2505.14604) about LLM overthinking!
 * **2025.09** 📢 [EasySteer](https://arxiv.org/abs/2509.25175) is released, a unified framework for high-performance and extensible LLM Steering! [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)]
@@ -248,11 +251,19 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Preprints & Under Submission</h3>
 
-<a href="https://arxiv.org/abs/2504.13865" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.13865-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Fei Tang<sup>\*</sup>, <u>Haolei Xu</u><sup>\*</sup>, Hang Zhang<sup>\*</sup>, Siqi Chen<sup>\*</sup>, Xingyu Wu<sup>\*</sup>, Yongliang Shen<sup>‡</sup>, Wenqi Zhang, Guiyang Hou, Zeqi Tan, Yuchen Yan, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang, &quot;**A Survey on (M)LLM-based GUI Agents**&quot;. *arXiv preprint arXiv:2504.13865*, 2025. [[paper](https://arxiv.org/pdf/2504.13865)] [[code](https://github.com/ZJU-REAL/Awesome-GUI-Agents)] <a href="https://github.com/ZJU-REAL/Awesome-GUI-Agents" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Awesome-GUI-Agents?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:d1gkVwhDpl0C" href="" target="_blank"></a>
+<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xiaowen Xu, Haiwen Hong, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen<sup>‡</sup>, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
 
 <a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.25175-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. *arXiv preprint arXiv:2509.25175*, 2025. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2607.01191" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.01191-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Hongxing Li, Xiufeng Huang, Dingming Li, Wenjing Jiang, Zixuan Wang, <u>Haolei Xu</u>, Hanrong Zhang, Haiwen Hong, Longtao Huang, Hui Xue, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen, &quot;**Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning**&quot;. *arXiv preprint arXiv:2607.01191*, 2026. [[paper](https://arxiv.org/pdf/2607.01191)] [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)] <a href="https://github.com/ZJU-REAL/Perceive-to-Reason" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Perceive-to-Reason?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:MXK_kJrjxJIC" href="" target="_blank"></a>
+
+<a href="https://arxiv.org/abs/2504.13865" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.13865-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Fei Tang<sup>\*</sup>, <u>Haolei Xu</u><sup>\*</sup>, Hang Zhang<sup>\*</sup>, Siqi Chen<sup>\*</sup>, Xingyu Wu<sup>\*</sup>, Yongliang Shen<sup>‡</sup>, Wenqi Zhang, Guiyang Hou, Zeqi Tan, Yuchen Yan, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang, &quot;**A Survey on (M)LLM-based GUI Agents**&quot;. *arXiv preprint arXiv:2504.13865*, 2025. [[paper](https://arxiv.org/pdf/2504.13865)] [[code](https://github.com/ZJU-REAL/Awesome-GUI-Agents)] <a href="https://github.com/ZJU-REAL/Awesome-GUI-Agents" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Awesome-GUI-Agents?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:d1gkVwhDpl0C" href="" target="_blank"></a>
+
+
+
+## 🎤 Talks
+
+* **2026.05** 大模型也会“走神”：从 Steering 到多模态 MoE 推理修复 —《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center. [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
 
 
 
