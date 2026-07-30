@@ -17,7 +17,7 @@ redirect_from:
 
 <div class="news-scroll" markdown="1">
 
-* **2026.07** 📢 [Relay-OPD](https://arxiv.org/abs/2607.26057) is released, relaying teacher trajectories for on-policy distillation! [[code](https://github.com/ZJU-REAL/Relay-OPD)]
+* **2026.07** 📢 [Relay-OPD](https://arxiv.org/abs/2607.26057) is released, a trajectory-relay framework that mitigates prefix failure in on-policy distillation! [[code](https://github.com/ZJU-REAL/Relay-OPD)]
 * **2026.07** 📢 [Perceive-to-Reason](https://arxiv.org/abs/2607.01191) is released, decoupling perception and reasoning for fine-grained visual reasoning! [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)]
 * **2026.05** 🎤 Invited talk at《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center! [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
 * **2026.04** 🎉 One paper has been accepted by **ACL 2026** (Main), about routing distraction in multimodal Mixture-of-Experts ([Seeing but Not Thinking](https://arxiv.org/abs/2604.08541))!
