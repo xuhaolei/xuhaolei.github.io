@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T07:17:08.717059+00:00",
-  "citedby": 145,
+  "updated": "2026-08-03T07:17:08.423970+00:00",
+  "citedby": 154,
   "publications": {
     "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
       "author_pub_id": "Wg2cuHUAAAAJ:3fE2CSJIrl8C",
@@ -8,7 +8,7 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 2,
+      "num_citations": 4,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -27,7 +27,7 @@
         "pub_year": "2026"
       },
       "num_citations": 26,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16628112274765565311"
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
       "author_pub_id": "Wg2cuHUAAAAJ:roLk4NBRz8UC",
@@ -35,8 +35,8 @@
         "title": "Mind the gap: Bridging thought leap for improved chain-of-thought tuning",
         "pub_year": "2026"
       },
-      "num_citations": 7,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7965617716609371703"
+      "num_citations": 8,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11089079698903697949"
     },
     "Wg2cuHUAAAAJ:YsMSGLbcyi4C": {
       "author_pub_id": "Wg2cuHUAAAAJ:YsMSGLbcyi4C",
@@ -44,7 +44,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 17,
+      "num_citations": 18,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
     },
     "Wg2cuHUAAAAJ:WF5omc3nYNoC": {
@@ -53,7 +53,7 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 12,
+      "num_citations": 14,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
@@ -62,13 +62,13 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 74,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,6956625760677509433,17298897713330488334"
+      "num_citations": 77,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
       "author_pub_id": "Wg2cuHUAAAAJ:hqOjcs7Dif8C",
       "bib": {
-        "title": "Db-explore: Automated database exploration and instruction synthesis for text-to-sql",
+        "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL.",
         "pub_year": "2025"
       },
       "num_citations": 6,
