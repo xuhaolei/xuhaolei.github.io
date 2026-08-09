@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T07:17:09.944054+00:00",
-  "citedby": 159,
+  "updated": "2026-08-09T07:17:12.867265+00:00",
+  "citedby": 161,
   "publications": {
     "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
@@ -17,7 +17,7 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 4,
+      "num_citations": 5,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -71,7 +71,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 80,
+      "num_citations": 81,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
