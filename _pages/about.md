@@ -81,6 +81,28 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   }
 </style>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Demo</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>🚀 A unified LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**](https://arxiv.org/abs/2509.25175)
+
+<u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>
+
+- Modular, pluggable architecture addressing inefficiency and limited extensibility of prior steering frameworks.
+- **10.8–22.3× inference speedup** via deep vLLM integration; 81–91% baseline throughput under multi-vector use.
+- Overthinking mitigation (tokens **↓40%**), hallucination reduction (**+12%** accuracy), 8 pre-built domains.
+
+<div style="display: inline">
+  <a href="https://arxiv.org/pdf/2509.25175"><strong>[paper]</strong></a>
+  <a href="https://github.com/ZJU-REAL/EasySteer"><strong>[code]</strong></a>
+  <a href="https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg"><strong>[机器之心]</strong></a>
+  <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/seeing_but_not_thinking_teaser.png' alt="Seeing but Not Thinking teaser" width="100%"><p class="paper-caption"><i>🔍 Identifies the <strong>Seeing but Not Thinking</strong> phenomenon in multimodal MoE models and proposes a routing-guided fix.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,28 +146,6 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Demo</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>🚀 A unified LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**](https://arxiv.org/abs/2509.25175)
-
-<u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>
-
-- Modular, pluggable architecture addressing inefficiency and limited extensibility of prior steering frameworks.
-- **10.8–22.3× inference speedup** via deep vLLM integration; 81–91% baseline throughput under multi-vector use.
-- Overthinking mitigation (tokens **↓40%**), hallucination reduction (**+12%** accuracy), 8 pre-built domains.
-
-<div style="display: inline">
-  <a href="https://arxiv.org/pdf/2509.25175"><strong>[paper]</strong></a>
-  <a href="https://github.com/ZJU-REAL/EasySteer"><strong>[code]</strong></a>
-  <a href="https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg"><strong>[机器之心]</strong></a>
-  <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a>
-  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
-</div>
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/relay_opd_teaser.png' alt="Relay-OPD teaser" width="100%"><p class="paper-caption"><i>🏃 Fixes <strong>prefix failure</strong> in on-policy distillation by letting the teacher briefly take over, then handing the trajectory back to the student.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,7 +173,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   <button type="button" class="pub-filter-btn" data-filter="first-author">Core</button>
 </div>
 
-<div class="pub-highlight" id="pub-highlight">🚩 Highlight: NeurIPS: 2, ACL: 1, ACM MM: 1, EMNLP: 1.</div>
+<div class="pub-highlight" id="pub-highlight">🚩 Highlight: NeurIPS: 2, ACL: 1, ACM MM: 1, EMNLP: 2.</div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
@@ -203,7 +203,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
       var badge = item.querySelector("a img");
       if (!badge) return null;
       var source = badge.getAttribute("src") || "";
-      var match = source.match(/badge\/(NeurIPS|ACL|ACMMM|EMNLP)-/i);
+      var match = source.match(/badge\/(NeurIPS|ACL|ACMMM|EMNLP)(?:%20[A-Za-z]+)?-/i);
       return match ? match[1] : null;
     }
 
