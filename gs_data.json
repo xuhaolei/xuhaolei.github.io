@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T07:17:09.074539+00:00",
-  "citedby": 162,
+  "updated": "2026-08-22T17:39:30.625219+00:00",
+  "citedby": 172,
   "publications": {
     "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
@@ -35,7 +35,7 @@
         "title": "Let LRMs break free from overthinking via self-braking tuning",
         "pub_year": "2026"
       },
-      "num_citations": 27,
+      "num_citations": 28,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
@@ -44,7 +44,7 @@
         "title": "Mind the gap: Bridging thought leap for improved chain-of-thought tuning",
         "pub_year": "2026"
       },
-      "num_citations": 8,
+      "num_citations": 9,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11089079698903697949"
     },
     "Wg2cuHUAAAAJ:YsMSGLbcyi4C": {
@@ -53,7 +53,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 19,
+      "num_citations": 20,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
     },
     "Wg2cuHUAAAAJ:WF5omc3nYNoC": {
@@ -71,7 +71,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 81,
+      "num_citations": 86,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
@@ -80,7 +80,7 @@
         "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL.",
         "pub_year": "2025"
       },
-      "num_citations": 6,
+      "num_citations": 8,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
     },
     "Wg2cuHUAAAAJ:9yKSN-GCB0IC": {
