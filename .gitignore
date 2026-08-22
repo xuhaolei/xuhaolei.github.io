@@ -6,4 +6,5 @@ Gemfile.lock
 
 # Ingore files created by npm
 node_modules
-package-lock.jsongoogle_scholar_crawler/results/
+package-lock.json
+google_scholar_crawler/results/

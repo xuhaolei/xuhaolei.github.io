@@ -17,6 +17,7 @@ redirect_from:
 
 <div class="news-scroll" markdown="1">
 
+* **2026.08** 🎉 [EasySteer](https://arxiv.org/abs/2509.25175) has been accepted by **EMNLP 2026** (System Demonstrations)!
 * **2026.07** 📢 [Relay-OPD](https://arxiv.org/abs/2607.26057) is released, a trajectory-relay framework that mitigates prefix failure in on-policy distillation! [[code](https://github.com/ZJU-REAL/Relay-OPD)]
 * **2026.07** 📢 [Perceive-to-Reason](https://arxiv.org/abs/2607.01191) is released, decoupling perception and reasoning for fine-grained visual reasoning! [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)]
 * **2026.05** 🎤 Invited talk at《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center! [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
@@ -123,28 +124,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/relay_opd_teaser.png' alt="Relay-OPD teaser" width="100%"><p class="paper-caption"><i>🏃 Fixes <strong>prefix failure</strong> in on-policy distillation by letting the teacher briefly take over, then handing the trajectory back to the student.</i></p></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Pass the Baton: Trajectory-Relayed On-Policy Distillation**](https://arxiv.org/abs/2607.26057)
-
-<u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen
-
-- Identifies **prefix failure** in on-policy distillation and a teacher–student **continuation asymmetry** on failed prefixes, converted into a label-free handoff trigger.
-- Constructs **relay trajectories**: the teacher briefly takes over at trigger points to produce a teacher leg, after which the student resumes generation.
-- Best or second-best on all **8 math reasoning benchmarks**: **+5.73%** over standard OPD and **+1.49%** over FastOPD at 1.7B, with training trajectory length reduced by **50%+**.
-
-<div style="display: inline">
-  <a href="https://arxiv.org/pdf/2607.26057"><strong>[paper]</strong></a>
-  <a href="https://github.com/ZJU-REAL/Relay-OPD"><strong>[code]</strong></a>
-  <a href="https://zju-real.github.io/Relay-OPD/"><strong>[page]</strong></a>
-  <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>🚀 A unified LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Demo</div><img src='images/easysteer_teaser.png' alt="EasySteer teaser" width="100%"><p class="paper-caption"><i>🚀 A unified LLM steering framework built on vLLM with <strong>10.8–22.3×</strong> speedup over existing methods.</i></p></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**](https://arxiv.org/abs/2509.25175)
@@ -161,6 +141,28 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   <a href="https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg"><strong>[机器之心]</strong></a>
   <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a>
   <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/relay_opd_teaser.png' alt="Relay-OPD teaser" width="100%"><p class="paper-caption"><i>🏃 Fixes <strong>prefix failure</strong> in on-policy distillation by letting the teacher briefly take over, then handing the trajectory back to the student.</i></p></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Pass the Baton: Trajectory-Relayed On-Policy Distillation**](https://arxiv.org/abs/2607.26057)
+
+<u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen
+
+- Identifies **prefix failure** in on-policy distillation and a teacher–student **continuation asymmetry** on failed prefixes, converted into a label-free handoff trigger.
+- Constructs **relay trajectories**: the teacher briefly takes over at trigger points to produce a teacher leg, after which the student resumes generation.
+- Best or second-best on all **8 math reasoning benchmarks**: **+5.73%** over standard OPD and **+1.49%** over FastOPD at 1.7B, with training trajectory length reduced by **50%+**.
+
+<div style="display: inline">
+  <a href="https://arxiv.org/pdf/2607.26057"><strong>[paper]</strong></a>
+  <a href="https://github.com/ZJU-REAL/Relay-OPD"><strong>[code]</strong></a>
+  <a href="https://zju-real.github.io/Relay-OPD/"><strong>[page]</strong></a>
+  <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:kNdYIx-mwKoC" href="" target="_blank"></a>
 </div>
 
 </div>
@@ -258,6 +260,8 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Conference Papers</h3>
 
+<a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/EMNLP%20Demo-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2026. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
+
 <a href="https://arxiv.org/abs/2604.08541" target="_blank"><img src="https://img.shields.io/badge/ACL-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen<sup>‡</sup>, Weiming Lu<sup>‡</sup>, Yueting Zhuang, &quot;**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**&quot;. In *Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [[paper](https://arxiv.org/pdf/2604.08541)] [[PaperWeekly](https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:3fE2CSJIrl8C" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2505.14684" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2025-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Yuchen Yan<sup>\*</sup>, Yongliang Shen<sup>‡</sup>, Wenqi Zhang, Guiyang Hou, Shengpei Jiang, Kaitao Song, Weiming Lu<sup>‡</sup>, Jun Xiao, Yueting Zhuang, &quot;**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**&quot;. In *Advances in Neural Information Processing Systems (NeurIPS)*, 2025. [[paper](https://arxiv.org/pdf/2505.14684)] [[code](https://github.com/ZJU-REAL/Mind-the-Gap)] [[page](https://zju-real.github.io/CoT-Bridge/)] [[机器之心](https://mp.weixin.qq.com/s/Gjz9CLEGngOBpKRnZ_GC_A)] <a href="https://github.com/ZJU-REAL/Mind-the-Gap" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Mind-the-Gap?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:roLk4NBRz8UC" href="" target="_blank"></a>
@@ -272,9 +276,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Preprints & Under Submission</h3>
 
-<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] [[page](https://zju-real.github.io/Relay-OPD/)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
-
-<a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.25175-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. *arXiv preprint arXiv:2509.25175*, 2025. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
+<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] [[page](https://zju-real.github.io/Relay-OPD/)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:kNdYIx-mwKoC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2607.01191" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.01191-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Hongxing Li<sup>\*</sup>, Xiufeng Huang<sup>\*</sup>, Dingming Li, Wenjing Jiang, Zixuan Wang, <u>Haolei Xu</u>, Hanrong Zhang, Haiwen Hong<sup>†</sup>, Longtao Huang, Hui Xue, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen<sup>†</sup>, &quot;**Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning**&quot;. *arXiv preprint arXiv:2607.01191*, 2026. [[paper](https://arxiv.org/pdf/2607.01191)] [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)] <a href="https://github.com/ZJU-REAL/Perceive-to-Reason" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Perceive-to-Reason?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:MXK_kJrjxJIC" href="" target="_blank"></a>
 
