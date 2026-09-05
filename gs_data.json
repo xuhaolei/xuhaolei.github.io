@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T07:17:12.098687+00:00",
-  "citedby": 176,
+  "updated": "2026-09-05T07:17:10.972543+00:00",
+  "citedby": 178,
   "publications": {
     "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
@@ -35,7 +35,7 @@
         "title": "Let LRMs break free from overthinking via self-braking tuning",
         "pub_year": "2026"
       },
-      "num_citations": 29,
+      "num_citations": 30,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
@@ -56,8 +56,8 @@
       "num_citations": 20,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
     },
-    "Wg2cuHUAAAAJ:WF5omc3nYNoC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:WF5omc3nYNoC",
+    "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
       "bib": {
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
@@ -71,7 +71,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 88,
+      "num_citations": 89,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
