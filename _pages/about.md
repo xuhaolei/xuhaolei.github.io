@@ -97,7 +97,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   <a href="https://github.com/ZJU-REAL/EasySteer"><strong>[code]</strong></a>
   <a href="https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg"><strong>[机器之心]</strong></a>
   <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a>
-  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:Zph67rFs4hoC" href="" target="_blank"></a>
 </div>
 
 </div>
@@ -260,7 +260,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Conference Papers</h3>
 
-<a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/EMNLP%20Demo-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2026. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:WF5omc3nYNoC" href="" target="_blank"></a>
+<a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/EMNLP%20Demo-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2026. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:Zph67rFs4hoC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2604.08541" target="_blank"><img src="https://img.shields.io/badge/ACL-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen<sup>‡</sup>, Weiming Lu<sup>‡</sup>, Yueting Zhuang, &quot;**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**&quot;. In *Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [[paper](https://arxiv.org/pdf/2604.08541)] [[PaperWeekly](https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:3fE2CSJIrl8C" href="" target="_blank"></a>
 
