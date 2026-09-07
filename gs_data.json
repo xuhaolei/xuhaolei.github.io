@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T07:17:10.972543+00:00",
-  "citedby": 178,
+  "updated": "2026-09-07T07:17:12.064638+00:00",
+  "citedby": 181,
   "publications": {
     "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
@@ -53,7 +53,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 20,
+      "num_citations": 21,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
     },
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
@@ -62,7 +62,7 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 15,
+      "num_citations": 16,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
@@ -71,7 +71,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 89,
+      "num_citations": 90,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
