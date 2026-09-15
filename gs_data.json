@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-09T07:17:15.956325+00:00",
-  "citedby": 181,
+  "updated": "2026-09-15T07:17:22.571090+00:00",
+  "citedby": 184,
   "publications": {
+    "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
+      "bib": {
+        "title": "When Metrics Reward the Worst Translations: Internalizing Cultural Reasoning for Social Media Translation Evaluation",
+        "pub_year": "2026"
+      },
+      "num_citations": 0,
+      "cite_url": ""
+    },
     "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
       "bib": {
@@ -35,7 +44,7 @@
         "title": "Let LRMs break free from overthinking via self-braking tuning",
         "pub_year": "2026"
       },
-      "num_citations": 30,
+      "num_citations": 31,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
@@ -53,7 +62,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 21,
+      "num_citations": 23,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
     },
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
