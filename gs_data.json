@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T07:17:22.571090+00:00",
-  "citedby": 184,
+  "updated": "2026-09-25T07:17:10.536444+00:00",
+  "citedby": 190,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -17,8 +17,8 @@
         "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
         "pub_year": "2026"
       },
-      "num_citations": 0,
-      "cite_url": ""
+      "num_citations": 1,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643"
     },
     "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
       "author_pub_id": "Wg2cuHUAAAAJ:3fE2CSJIrl8C",
@@ -35,8 +35,8 @@
         "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
         "pub_year": "2026"
       },
-      "num_citations": 0,
-      "cite_url": ""
+      "num_citations": 1,
+      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9810251283789824754"
     },
     "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Se3iqnhoufwC",
@@ -80,7 +80,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 90,
+      "num_citations": 93,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
@@ -89,7 +89,7 @@
         "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL.",
         "pub_year": "2025"
       },
-      "num_citations": 8,
+      "num_citations": 9,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
     },
     "Wg2cuHUAAAAJ:9yKSN-GCB0IC": {
