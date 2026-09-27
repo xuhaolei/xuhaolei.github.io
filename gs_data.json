@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T07:17:10.536444+00:00",
-  "citedby": 190,
+  "updated": "2026-09-27T07:17:11.019731+00:00",
+  "citedby": 192,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -71,7 +71,7 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 16,
+      "num_citations": 17,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
@@ -89,7 +89,7 @@
         "title": "DB-Explore: Automated Database Exploration and Instruction Synthesis for Text-to-SQL.",
         "pub_year": "2025"
       },
-      "num_citations": 9,
+      "num_citations": 10,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
     },
     "Wg2cuHUAAAAJ:9yKSN-GCB0IC": {
