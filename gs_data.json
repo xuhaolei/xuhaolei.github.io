@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T07:17:11.774697+00:00",
-  "citedby": 192,
+  "updated": "2026-10-01T07:17:12.528057+00:00",
+  "citedby": 194,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -71,7 +71,7 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 17,
+      "num_citations": 18,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
@@ -80,7 +80,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 93,
+      "num_citations": 94,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
