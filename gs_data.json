@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T07:17:12.528057+00:00",
-  "citedby": 194,
+  "updated": "2026-10-03T07:17:10.954785+00:00",
+  "citedby": 197,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -14,10 +14,10 @@
     "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
       "bib": {
-        "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+        "title": "Pass the baton: Trajectory-relayed on-policy distillation",
         "pub_year": "2026"
       },
-      "num_citations": 1,
+      "num_citations": 2,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643"
     },
     "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
@@ -26,7 +26,7 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 6,
+      "num_citations": 7,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -71,7 +71,7 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 18,
+      "num_citations": 19,
       "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
