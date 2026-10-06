@@ -276,6 +276,8 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <h3 class="pub-section-heading">Preprints & Under Submission</h3>
 
+<a href="https://arxiv.org/abs/2609.08156" target="_blank"><img src="https://img.shields.io/badge/arXiv-2609.08156-B31B1B?style=flat-square" alt="arXiv:2609.08156"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Yiwen Qiu, Linjuan Wu, Dingming Li, Yizhou Liu, Zixuan Wang, <u>Haolei Xu</u>, Ye Guo, Daoxin Zhang, Weiming Lu, Yongliang Shen, &quot;**When Metrics Reward the Worst Translations: Internalizing Cultural Reasoning for Social Media Translation Evaluation**&quot;. *arXiv preprint arXiv:2609.08156*, 2026. [[paper](https://arxiv.org/pdf/2609.08156)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:ULOm3_A8WrAC" href="https://scholar.google.com/citations?view_op=view_citation&amp;citation_for_view=Wg2cuHUAAAAJ:ULOm3_A8WrAC" target="_blank"></a>
+
 <a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] [[page](https://zju-real.github.io/Relay-OPD/)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:kNdYIx-mwKoC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2607.01191" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.01191-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Hongxing Li<sup>\*</sup>, Xiufeng Huang<sup>\*</sup>, Dingming Li, Wenjing Jiang, Zixuan Wang, <u>Haolei Xu</u>, Hanrong Zhang, Haiwen Hong<sup>†</sup>, Longtao Huang, Hui Xue, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen<sup>†</sup>, &quot;**Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning**&quot;. *arXiv preprint arXiv:2607.01191*, 2026. [[paper](https://arxiv.org/pdf/2607.01191)] [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)] <a href="https://github.com/ZJU-REAL/Perceive-to-Reason" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Perceive-to-Reason?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:MXK_kJrjxJIC" href="" target="_blank"></a>
@@ -299,6 +301,5 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 * **B.S. in Computer Science** — [Harbin Institute of Technology](http://en.hit.edu.cn/)
   * Time: Sep 2020 – Jun 2024.
   * School of Computer Science.
-
 
 
