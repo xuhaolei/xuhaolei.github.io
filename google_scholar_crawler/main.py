@@ -2,6 +2,7 @@ import json
 import os
 import time
 from datetime import datetime, timezone
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -70,7 +71,7 @@ def parse_profile(html: str, scholar_id: str):
             cite_count = int(cite_text) if cite_text.isdigit() else 0
             raw_href = cite_el.get("href", "")
             if raw_href:
-                cite_url = "https://scholar.google.com/" + raw_href.lstrip("/")
+                cite_url = urljoin("https://scholar.google.com/", raw_href)
 
         pub = {
             "author_pub_id": pub_id,

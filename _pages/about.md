@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🌈 I am Haolei Xu (徐皓雷), a second-year PhD student at [Zhejiang University](https://www.zju.edu.cn/english/), College of Computer Science and Technology. Previously, I received my Bachelor's degree from the School of Computer Science, [Harbin Institute of Technology](http://en.hit.edu.cn/).
+🌈 I am Haolei Xu (徐皓雷), a third-year PhD student at [Zhejiang University](https://www.zju.edu.cn/english/), College of Computer Science and Technology. Previously, I received my Bachelor's degree from the School of Computer Science, [Harbin Institute of Technology](http://en.hit.edu.cn/).
 
 📌 My research focuses on **Knowledge Distillation**, **LLM Reasoning**, **Reinforcement Learning**, and **Interpretability**.
 
@@ -33,7 +33,7 @@ redirect_from:
 
 ## 📝 Publications
 
-Full publications are on my [Google Scholar](https://scholar.google.com/citations?user=Wg2cuHUAAAAJ&hl=en) profile. \*: Equal contribution. †: Project leader. ‡: Corresponding author. <a href="https://scholar.google.com/citations?user=Wg2cuHUAAAAJ" target="_blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxuhaolei%2Fxuhaolei.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&label=Paper%20Citations&logo=googlescholar&style=social" alt="Google Scholar"></a>
+Full publications are on my [Google Scholar](https://scholar.google.com/citations?user=Wg2cuHUAAAAJ&hl=en) profile. \*: Equal contribution. †: Project leader. ‡: Corresponding author. <a class="all_citation_badges" href="https://scholar.google.com/citations?user=Wg2cuHUAAAAJ" target="_blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxuhaolei%2Fxuhaolei.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&label=Paper%20Citations&logo=googlescholar&style=social" alt="Google Scholar"></a>
 
 <style>
   .pub-filters {
