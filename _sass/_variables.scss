@@ -124,7 +124,7 @@ $x-large                    : 1800px;
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
-$large                      : 1200px !default;
+$large                      : 925px !default;
 $x-large                    : 1800px !default;
 
 /*
@@ -142,7 +142,8 @@ $susy: (
   math: fluid,
   output: float,
   gutter-position: after,
-  container: $large,
+  // Keep the desktop reading width independent of the compact-layout breakpoint.
+  container: 1200px,
   global-box-sizing: border-box,
   // debug: (
   //   image: show,
