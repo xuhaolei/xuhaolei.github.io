@@ -10,52 +10,28 @@ var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
-
 function updateNav() {
+  // Start from the full list so one resize can restore every item that fits.
+  $vlinks.append($hlinks.children());
+  $btn.addClass('hidden');
 
-  var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+  if ($vlinks.outerWidth() > $nav.width()) {
+    $btn.removeClass('hidden');
+    var gap = parseFloat($nav.css('font-size')) || 16;
+    var availableSpace = $nav.width() - $btn.outerWidth() - gap;
 
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
-
-    // Record the width of the list
-    breaks.push($vlinks.width());
-
-    // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
-
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
-
-  // The visible list is not overflowing
-  } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
+    while ($vlinks.children().length > 1 && $vlinks.outerWidth() > availableSpace) {
+      $vlinks.children().last().prependTo($hlinks);
     }
   }
 
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
+  var hiddenCount = $hlinks.children().length;
+  $btn.attr('count', hiddenCount);
+  if (!hiddenCount) {
+    $btn.addClass('hidden').removeClass('close');
+    $hlinks.addClass('hidden');
   }
-
+  $btn.attr('aria-expanded', !$hlinks.hasClass('hidden'));
 }
 
 // Window listeners
@@ -66,7 +42,7 @@ $(window).resize(function() {
 
 $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
-  $(this).toggleClass('close');
+  $(this).toggleClass('close').attr('aria-expanded', !$hlinks.hasClass('hidden'));
 });
 
 updateNav();
