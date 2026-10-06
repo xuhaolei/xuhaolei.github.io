@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T07:17:10.954785+00:00",
-  "citedby": 197,
+  "updated": "2026-10-06T16:23:37.800652+00:00",
+  "citedby": 228,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -17,8 +17,8 @@
         "title": "Pass the baton: Trajectory-relayed on-policy distillation",
         "pub_year": "2026"
       },
-      "num_citations": 2,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643"
+      "num_citations": 4,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643,3391326149049423934"
     },
     "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
       "author_pub_id": "Wg2cuHUAAAAJ:3fE2CSJIrl8C",
@@ -26,8 +26,8 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 7,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
+      "num_citations": 9,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
       "author_pub_id": "Wg2cuHUAAAAJ:MXK_kJrjxJIC",
@@ -36,7 +36,7 @@
         "pub_year": "2026"
       },
       "num_citations": 1,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9810251283789824754"
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9810251283789824754"
     },
     "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Se3iqnhoufwC",
@@ -44,8 +44,8 @@
         "title": "Let LRMs break free from overthinking via self-braking tuning",
         "pub_year": "2026"
       },
-      "num_citations": 31,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865"
+      "num_citations": 51,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865,9623684275717144926"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
       "author_pub_id": "Wg2cuHUAAAAJ:roLk4NBRz8UC",
@@ -53,8 +53,8 @@
         "title": "Mind the gap: Bridging thought leap for improved chain-of-thought tuning",
         "pub_year": "2026"
       },
-      "num_citations": 9,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11089079698903697949"
+      "num_citations": 10,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11089079698903697949"
     },
     "Wg2cuHUAAAAJ:YsMSGLbcyi4C": {
       "author_pub_id": "Wg2cuHUAAAAJ:YsMSGLbcyi4C",
@@ -62,8 +62,8 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 23,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366"
+      "num_citations": 27,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366,17907468025385834552"
     },
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -71,8 +71,8 @@
         "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
         "pub_year": "2025"
       },
-      "num_citations": 19,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
+      "num_citations": 20,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
       "author_pub_id": "Wg2cuHUAAAAJ:d1gkVwhDpl0C",
@@ -80,8 +80,8 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 94,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
+      "num_citations": 95,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
       "author_pub_id": "Wg2cuHUAAAAJ:hqOjcs7Dif8C",
@@ -90,7 +90,7 @@
         "pub_year": "2025"
       },
       "num_citations": 10,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984740405962003377"
     },
     "Wg2cuHUAAAAJ:9yKSN-GCB0IC": {
       "author_pub_id": "Wg2cuHUAAAAJ:9yKSN-GCB0IC",
@@ -99,7 +99,7 @@
         "pub_year": "2023"
       },
       "num_citations": 1,
-      "cite_url": "https://scholar.google.com/https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9361625504881051330"
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9361625504881051330"
     }
   }
 }
