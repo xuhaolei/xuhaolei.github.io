@@ -77,7 +77,7 @@
    ========================================================================== */
 
 // Keep the mobile profile compact without letting table layout squeeze the photo.
-@media not all and (min-width: $large) {
+@media not all and (min-width: breakpoint-to-base-em($large)) {
   .author__profile {
     --avatar-size: clamp(3.5rem, 18vw, 5rem);
     display: grid;
