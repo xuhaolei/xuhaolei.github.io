@@ -78,14 +78,15 @@
 @media not all and (min-width: breakpoint-to-base-em($large)) {
   .author__profile {
     --avatar-size: clamp(3.5rem, 18vw, 5rem);
-    display: grid;
-    grid-template-columns: var(--avatar-size) minmax(0, 1fr);
+    display: flex;
+    flex-wrap: wrap;
     gap: 0.5rem 1rem;
     align-items: center;
   }
 
   .author__profile .author__avatar {
     display: block;
+    flex: 0 0 var(--avatar-size);
     width: var(--avatar-size);
     height: var(--avatar-size);
 
@@ -99,6 +100,7 @@
 
   .author__profile .author__content {
     display: block;
+    flex: 1 1 10rem;
     min-width: 0;
     padding: 0;
     line-height: 1.4;
@@ -115,7 +117,8 @@
   .author__compact-links {
     display: flex;
     flex-wrap: wrap;
-    grid-column: 2;
+    margin-left: auto;
+    justify-content: flex-end;
     gap: 0.25rem;
 
     a {
@@ -137,18 +140,6 @@
         outline: 2px solid currentColor;
         outline-offset: 2px;
       }
-    }
-  }
-
-  // Keep contacts on the same row when there is room, including narrow desktops.
-  @media (min-width: 36em) {
-    .author__profile {
-      grid-template-columns: var(--avatar-size) minmax(0, 1fr) auto;
-    }
-
-    .author__compact-links {
-      grid-column: 3;
-      justify-content: flex-end;
     }
   }
 }
