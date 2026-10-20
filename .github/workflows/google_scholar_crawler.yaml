@@ -2,7 +2,7 @@ name: Get Citation Data
 
 # Automatic triggers disabled: GitHub runner IPs are blocked by Google Scholar,
 # and a partially-rendered response could overwrite good citation data.
-# Updates now run from a local cron job (update-scholar-stats.sh on the VPS).
+# Updates now run from a local scheduled task (google_scholar_crawler/update_stats.py).
 on:
   workflow_dispatch:
 

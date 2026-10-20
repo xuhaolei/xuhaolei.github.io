@@ -286,6 +286,14 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 
 
+<h3 class="pub-section-heading">Technical Reports</h3>
+
+<a href="https://arxiv.org/abs/2606.27632" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.27632-B31B1B?style=flat-square" alt="arXiv:2606.27632"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Ting Ma, Xiufeng Huang, Benlei Cui, Xiaowen Xu, Shikai Qiu, Ruijie Jian, Hongxing Li, Guanghui Wang, Longtao Huang, Haiwen Hong, <u>Haolei Xu</u>, et al., &quot;**Yuvion LLM: An Adversarially-Aware Large Language Model for Content and AI Safety**&quot;. *Technical Report, arXiv:2606.27632*, 2026. [[paper](https://arxiv.org/pdf/2606.27632)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:9ZlFYXVOiuMC" href="" target="_blank"></a>
+
+<a href="https://arxiv.org/abs/2606.25034" target="_blank"><img src="https://img.shields.io/badge/arXiv-2606.25034-B31B1B?style=flat-square" alt="arXiv:2606.25034"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Shikai Qiu, Xiaowen Xu, Benlei Cui, Ting Ma, Xiufeng Huang, Wenjing Jiang, Shaoxuan He, <u>Haolei Xu</u>, et al., &quot;**Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety**&quot;. *Technical Report, arXiv:2606.25034*, 2026. [[paper](https://arxiv.org/pdf/2606.25034)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:mVmsd5A6BfQC" href="" target="_blank"></a>
+
+
+
 ## 🎤 Talks
 
 * **2026.05** 大模型也会“走神”：从 Steering 到多模态 MoE 推理修复 —《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center. [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
