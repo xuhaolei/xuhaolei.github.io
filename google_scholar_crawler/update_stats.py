@@ -55,8 +55,8 @@ def main():
         git("clone", "-q", "--depth", "1", "--branch", BRANCH, REPO, str(stats))
 
     run_dir = WORK / "run"
-    shutil.rmtree(run_dir, ignore_errors=True)
-    run_dir.mkdir()
+    shutil.rmtree(run_dir / "results", ignore_errors=True)
+    run_dir.mkdir(exist_ok=True)
     r = subprocess.run([sys.executable, "-I", "-X", "utf8", str(CRAWLER)], cwd=run_dir,
                        env={**os.environ, "GOOGLE_SCHOLAR_ID": SCHOLAR_ID},
                        capture_output=True, text=True, encoding="utf-8", errors="replace")
