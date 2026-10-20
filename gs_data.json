@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T16:23:37.800652+00:00",
-  "citedby": 228,
+  "updated": "2026-10-20T16:41:08.527388+00:00",
+  "citedby": 244,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -17,7 +17,7 @@
         "title": "Pass the baton: Trajectory-relayed on-policy distillation",
         "pub_year": "2026"
       },
-      "num_citations": 4,
+      "num_citations": 13,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643,3391326149049423934"
     },
     "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
@@ -35,8 +35,26 @@
         "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
         "pub_year": "2026"
       },
-      "num_citations": 1,
+      "num_citations": 2,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9810251283789824754"
+    },
+    "Wg2cuHUAAAAJ:9ZlFYXVOiuMC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:9ZlFYXVOiuMC",
+      "bib": {
+        "title": "Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety",
+        "pub_year": "2026"
+      },
+      "num_citations": 0,
+      "cite_url": ""
+    },
+    "Wg2cuHUAAAAJ:mVmsd5A6BfQC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:mVmsd5A6BfQC",
+      "bib": {
+        "title": "Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety",
+        "pub_year": "2026"
+      },
+      "num_citations": 0,
+      "cite_url": ""
     },
     "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Se3iqnhoufwC",
@@ -44,7 +62,7 @@
         "title": "Let LRMs break free from overthinking via self-braking tuning",
         "pub_year": "2026"
       },
-      "num_citations": 51,
+      "num_citations": 52,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865,9623684275717144926"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
@@ -62,7 +80,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 27,
+      "num_citations": 28,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366,17907468025385834552"
     },
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
@@ -80,7 +98,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 95,
+      "num_citations": 99,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
