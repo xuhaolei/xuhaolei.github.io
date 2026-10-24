@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T02:17:06.345685+00:00",
-  "citedby": 245,
+  "updated": "2026-10-24T02:17:06.161282+00:00",
+  "citedby": 248,
   "publications": {
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
@@ -11,22 +11,22 @@
       "num_citations": 0,
       "cite_url": ""
     },
-    "Wg2cuHUAAAAJ:kNdYIx-mwKoC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:kNdYIx-mwKoC",
+    "Wg2cuHUAAAAJ:dhFuZR0502QC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:dhFuZR0502QC",
       "bib": {
         "title": "Pass the baton: Trajectory-relayed on-policy distillation",
         "pub_year": "2026"
       },
-      "num_citations": 13,
+      "num_citations": 14,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643,3391326149049423934"
     },
-    "Wg2cuHUAAAAJ:3fE2CSJIrl8C": {
-      "author_pub_id": "Wg2cuHUAAAAJ:3fE2CSJIrl8C",
+    "Wg2cuHUAAAAJ:QIV2ME_5wuYC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:QIV2ME_5wuYC",
       "bib": {
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 9,
+      "num_citations": 10,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -50,11 +50,11 @@
     "Wg2cuHUAAAAJ:mVmsd5A6BfQC": {
       "author_pub_id": "Wg2cuHUAAAAJ:mVmsd5A6BfQC",
       "bib": {
-        "title": "Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety",
+        "title": "Yuvion vl: A multimodal foundation model for adversarial content and ai safety",
         "pub_year": "2026"
       },
-      "num_citations": 0,
-      "cite_url": ""
+      "num_citations": 1,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4827226741418066800"
     },
     "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Se3iqnhoufwC",
