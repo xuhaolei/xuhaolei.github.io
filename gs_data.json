@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-25T02:17:06.492626+00:00",
-  "citedby": 250,
+  "updated": "2026-10-28T02:17:06.469379+00:00",
+  "citedby": 255,
   "publications": {
+    "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
+      "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
+      "bib": {
+        "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
+        "pub_year": "2026"
+      },
+      "num_citations": 22,
+      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
+    },
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
       "bib": {
@@ -26,7 +35,7 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 11,
+      "num_citations": 12,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -62,7 +71,7 @@
         "title": "Let LRMs break free from overthinking via self-braking tuning",
         "pub_year": "2026"
       },
-      "num_citations": 52,
+      "num_citations": 53,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262388396695518865,9623684275717144926"
     },
     "Wg2cuHUAAAAJ:roLk4NBRz8UC": {
@@ -80,17 +89,8 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 28,
+      "num_citations": 29,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366,17907468025385834552"
-    },
-    "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
-      "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
-      "bib": {
-        "title": "Easysteer: A unified framework for high-performance and extensible llm steering",
-        "pub_year": "2025"
-      },
-      "num_citations": 20,
-      "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538669854667279693"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
       "author_pub_id": "Wg2cuHUAAAAJ:d1gkVwhDpl0C",
