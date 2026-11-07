@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T02:17:06.782666+00:00",
-  "citedby": 264,
+  "updated": "2026-11-07T02:17:06.850337+00:00",
+  "citedby": 267,
   "publications": {
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -14,10 +14,10 @@
     "Wg2cuHUAAAAJ:ULOm3_A8WrAC": {
       "author_pub_id": "Wg2cuHUAAAAJ:ULOm3_A8WrAC",
       "bib": {
-        "title": "When Metrics Reward the Worst Translations: Internalizing Cultural Reasoning for Social Media Translation Evaluation",
+        "title": "When metrics reward the worst translations: Internalizing cultural reasoning for social media translation evaluation",
         "pub_year": "2026"
       },
-      "num_citations": 1,
+      "num_citations": 2,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2587343632885714072"
     },
     "Wg2cuHUAAAAJ:dhFuZR0502QC": {
@@ -89,7 +89,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 30,
+      "num_citations": 31,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366,17907468025385834552"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
@@ -98,7 +98,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 104,
+      "num_citations": 105,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
