@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T02:17:06.879664+00:00",
-  "citedby": 269,
+  "updated": "2026-11-09T02:17:07.079489+00:00",
+  "citedby": 273,
   "publications": {
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -35,7 +35,7 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 12,
+      "num_citations": 13,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -62,7 +62,7 @@
         "title": "Yuvion vl: A multimodal foundation model for adversarial content and ai safety",
         "pub_year": "2026"
       },
-      "num_citations": 1,
+      "num_citations": 2,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4827226741418066800"
     },
     "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
@@ -98,7 +98,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 107,
+      "num_citations": 109,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
