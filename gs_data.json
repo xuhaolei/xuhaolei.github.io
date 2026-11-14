@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T02:17:07.795684+00:00",
-  "citedby": 275,
+  "updated": "2026-11-14T02:17:06.956913+00:00",
+  "citedby": 276,
   "publications": {
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -89,7 +89,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 31,
+      "num_citations": 32,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366,17907468025385834552"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
