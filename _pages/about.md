@@ -17,6 +17,7 @@ redirect_from:
 
 <div class="news-scroll" markdown="1">
 
+* **2026.10** 🎤 Invited talk on [Relay-OPD](https://arxiv.org/abs/2607.26057) at《追AI的人》第66期 · 浙江大学-阿里巴巴集团人工智能安全联合实验室专场, hosted by the Alibaba AI Governance Research Center! [[link](https://mp.weixin.qq.com/s/8F9yuXK3T1nSx3E42CyYYQ)]
 * **2026.08** 🎉 [EasySteer](https://arxiv.org/abs/2509.25175) has been accepted by **EMNLP 2026** (System Demonstrations)!
 * **2026.07** 📢 [Relay-OPD](https://arxiv.org/abs/2607.26057) is released, a trajectory-relay framework that mitigates prefix failure in on-policy distillation! [[code](https://github.com/ZJU-REAL/Relay-OPD)]
 * **2026.07** 📢 [Perceive-to-Reason](https://arxiv.org/abs/2607.01191) is released, decoupling perception and reasoning for fine-grained visual reasoning! [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)]
@@ -295,6 +296,8 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 
 ## 🎤 Talks
+
+* **2026.10** 当小模型“一步错、步步错”：Relay-OPD 如何让教师模型适时“接棒”？ —《追AI的人》第66期 · 浙江大学-阿里巴巴集团人工智能安全联合实验室专场, hosted by the Alibaba AI Governance Research Center. [[link](https://mp.weixin.qq.com/s/8F9yuXK3T1nSx3E42CyYYQ)]
 
 * **2026.05** 大模型也会“走神”：从 Steering 到多模态 MoE 推理修复 —《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center. [[link](https://mp.weixin.qq.com/s/dcvEwHNaJvkbn8Le9n-etQ)]
 
