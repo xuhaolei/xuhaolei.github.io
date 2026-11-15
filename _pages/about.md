@@ -20,7 +20,7 @@ redirect_from:
 * **2026.08** 🎉 [EasySteer](https://arxiv.org/abs/2509.25175) has been accepted by **EMNLP 2026** (System Demonstrations)!
 * **2026.07** 📢 [Relay-OPD](https://arxiv.org/abs/2607.26057) is released, a trajectory-relay framework that mitigates prefix failure in on-policy distillation! [[code](https://github.com/ZJU-REAL/Relay-OPD)]
 * **2026.07** 📢 [Perceive-to-Reason](https://arxiv.org/abs/2607.01191) is released, decoupling perception and reasoning for fine-grained visual reasoning! [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)]
-* **2026.05** 🎤 Invited talk at《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center! [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
+* **2026.05** 🎤 Invited talk at《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center! [[link](https://mp.weixin.qq.com/s/dcvEwHNaJvkbn8Le9n-etQ)]
 * **2026.04** 🎉 One paper has been accepted by **ACL 2026** (Main), about routing distraction in multimodal Mixture-of-Experts ([Seeing but Not Thinking](https://arxiv.org/abs/2604.08541))!
 * **2025.09** 🎉 Two papers have been accepted by **NeurIPS 2025**, including [Mind the Gap](https://arxiv.org/abs/2505.14684) about chain-of-thought tuning and [Self-Braking Tuning](https://arxiv.org/abs/2505.14604) about LLM overthinking!
 * **2025.09** 📢 [EasySteer](https://arxiv.org/abs/2509.25175) is released, a unified framework for high-performance and extensible LLM Steering! [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)]
@@ -117,7 +117,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 <div style="display: inline">
   <a href="https://arxiv.org/pdf/2604.08541"><strong>[paper]</strong></a>
   <a href="https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng"><strong>[PaperWeekly]</strong></a>
-  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:3fE2CSJIrl8C" href="" target="_blank"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:QIV2ME_5wuYC" href="" target="_blank"></a>
 </div>
 
 </div>
@@ -162,7 +162,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
   <a href="https://github.com/ZJU-REAL/Relay-OPD"><strong>[code]</strong></a>
   <a href="https://zju-real.github.io/Relay-OPD/"><strong>[page]</strong></a>
   <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a>
-  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:kNdYIx-mwKoC" href="" target="_blank"></a>
+  <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:dhFuZR0502QC" href="" target="_blank"></a>
 </div>
 
 </div>
@@ -262,7 +262,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <a href="https://arxiv.org/abs/2509.25175" target="_blank"><img src="https://img.shields.io/badge/EMNLP%20Demo-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u>, Xinyu Mei, Yuchen Yan, Rui Zhou, Wenqi Zhang, Weiming Lu<sup>‡</sup>, Yueting Zhuang, Yongliang Shen<sup>‡</sup>, &quot;**EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering**&quot;. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2026. [[paper](https://arxiv.org/pdf/2509.25175)] [[code](https://github.com/ZJU-REAL/EasySteer)] [[机器之心](https://mp.weixin.qq.com/s/dxuJHvXOfzA1euvFUPN_vg)] <a href="https://github.com/ZJU-REAL/EasySteer" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/EasySteer?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:Zph67rFs4hoC" href="" target="_blank"></a>
 
-<a href="https://arxiv.org/abs/2604.08541" target="_blank"><img src="https://img.shields.io/badge/ACL-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen<sup>‡</sup>, Weiming Lu<sup>‡</sup>, Yueting Zhuang, &quot;**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**&quot;. In *Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [[paper](https://arxiv.org/pdf/2604.08541)] [[PaperWeekly](https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:3fE2CSJIrl8C" href="" target="_blank"></a>
+<a href="https://arxiv.org/abs/2604.08541" target="_blank"><img src="https://img.shields.io/badge/ACL-2026-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen<sup>‡</sup>, Weiming Lu<sup>‡</sup>, Yueting Zhuang, &quot;**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**&quot;. In *Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [[paper](https://arxiv.org/pdf/2604.08541)] [[PaperWeekly](https://mp.weixin.qq.com/s/yfYENwyeuTULpLKQpUbyng)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:QIV2ME_5wuYC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2505.14684" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2025-blue?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Yuchen Yan<sup>\*</sup>, Yongliang Shen<sup>‡</sup>, Wenqi Zhang, Guiyang Hou, Shengpei Jiang, Kaitao Song, Weiming Lu<sup>‡</sup>, Jun Xiao, Yueting Zhuang, &quot;**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**&quot;. In *Advances in Neural Information Processing Systems (NeurIPS)*, 2025. [[paper](https://arxiv.org/pdf/2505.14684)] [[code](https://github.com/ZJU-REAL/Mind-the-Gap)] [[page](https://zju-real.github.io/CoT-Bridge/)] [[机器之心](https://mp.weixin.qq.com/s/Gjz9CLEGngOBpKRnZ_GC_A)] <a href="https://github.com/ZJU-REAL/Mind-the-Gap" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Mind-the-Gap?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:roLk4NBRz8UC" href="" target="_blank"></a>
 
@@ -278,7 +278,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 <a href="https://arxiv.org/abs/2609.08156" target="_blank"><img src="https://img.shields.io/badge/arXiv-2609.08156-B31B1B?style=flat-square" alt="arXiv:2609.08156"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Yiwen Qiu, Linjuan Wu, Dingming Li, Yizhou Liu, Zixuan Wang, <u>Haolei Xu</u>, Ye Guo, Daoxin Zhang, Weiming Lu, Yongliang Shen, &quot;**When Metrics Reward the Worst Translations: Internalizing Cultural Reasoning for Social Media Translation Evaluation**&quot;. *arXiv preprint arXiv:2609.08156*, 2026. [[paper](https://arxiv.org/pdf/2609.08156)] <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:ULOm3_A8WrAC" href="https://scholar.google.com/citations?view_op=view_citation&amp;citation_for_view=Wg2cuHUAAAAJ:ULOm3_A8WrAC" target="_blank"></a>
 
-<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] [[page](https://zju-real.github.io/Relay-OPD/)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:kNdYIx-mwKoC" href="" target="_blank"></a>
+<a href="https://arxiv.org/abs/2607.26057" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.26057-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="true" aria-hidden="true"></span> <u>Haolei Xu</u><sup>\*</sup>, Xiaowen Xu<sup>\*</sup>, Haiwen Hong<sup>\*,†</sup>, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu<sup>‡</sup>, Yongliang Shen, &quot;**Pass the Baton: Trajectory-Relayed On-Policy Distillation**&quot;. *arXiv preprint arXiv:2607.26057*, 2026. [[paper](https://arxiv.org/pdf/2607.26057)] [[code](https://github.com/ZJU-REAL/Relay-OPD)] [[page](https://zju-real.github.io/Relay-OPD/)] <a href="https://github.com/ZJU-REAL/Relay-OPD" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Relay-OPD?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:dhFuZR0502QC" href="" target="_blank"></a>
 
 <a href="https://arxiv.org/abs/2607.01191" target="_blank"><img src="https://img.shields.io/badge/arXiv-2607.01191-B31B1B?style=flat-square"></a><span class="pub-marker" data-first-author="false" aria-hidden="true"></span> Hongxing Li<sup>\*</sup>, Xiufeng Huang<sup>\*</sup>, Dingming Li, Wenjing Jiang, Zixuan Wang, <u>Haolei Xu</u>, Hanrong Zhang, Haiwen Hong<sup>†</sup>, Longtao Huang, Hui Xue, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen<sup>†</sup>, &quot;**Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning**&quot;. *arXiv preprint arXiv:2607.01191*, 2026. [[paper](https://arxiv.org/pdf/2607.01191)] [[code](https://github.com/ZJU-REAL/Perceive-to-Reason)] <a href="https://github.com/ZJU-REAL/Perceive-to-Reason" target="_blank"><img src="https://img.shields.io/github/stars/ZJU-REAL/Perceive-to-Reason?style=social"></a> <a class="paper_citations_badges" data="Wg2cuHUAAAAJ:MXK_kJrjxJIC" href="" target="_blank"></a>
 
@@ -296,7 +296,7 @@ Full publications are on my [Google Scholar](https://scholar.google.com/citation
 
 ## 🎤 Talks
 
-* **2026.05** 大模型也会“走神”：从 Steering 到多模态 MoE 推理修复 —《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center. [[link](https://mp.weixin.qq.com/s/aLmj1Kz1LVzDhtVUDrAu4g)]
+* **2026.05** 大模型也会“走神”：从 Steering 到多模态 MoE 推理修复 —《追AI的人》第62期 · ACL 2026 论文专场, hosted by the Alibaba AI Governance Research Center. [[link](https://mp.weixin.qq.com/s/dcvEwHNaJvkbn8Le9n-etQ)]
 
 
 
