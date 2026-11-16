@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T02:17:06.956913+00:00",
-  "citedby": 276,
+  "updated": "2026-11-16T02:17:07.013788+00:00",
+  "citedby": 277,
   "publications": {
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -26,7 +26,7 @@
         "title": "Pass the baton: Trajectory-relayed on-policy distillation",
         "pub_year": "2026"
       },
-      "num_citations": 15,
+      "num_citations": 16,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643,3391326149049423934"
     },
     "Wg2cuHUAAAAJ:QIV2ME_5wuYC": {
