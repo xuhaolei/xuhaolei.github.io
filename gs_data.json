@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T02:17:06.994999+00:00",
-  "citedby": 278,
+  "updated": "2026-11-26T02:17:07.165935+00:00",
+  "citedby": 279,
   "publications": {
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -62,7 +62,7 @@
         "title": "Yuvion vl: A multimodal foundation model for adversarial content and ai safety",
         "pub_year": "2026"
       },
-      "num_citations": 2,
+      "num_citations": 3,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4827226741418066800"
     },
     "Wg2cuHUAAAAJ:Se3iqnhoufwC": {
