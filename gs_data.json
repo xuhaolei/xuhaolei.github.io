@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T02:17:07.179666+00:00",
-  "citedby": 280,
+  "updated": "2026-11-28T02:17:07.187910+00:00",
+  "citedby": 285,
   "publications": {
     "Wg2cuHUAAAAJ:Zph67rFs4hoC": {
       "author_pub_id": "Wg2cuHUAAAAJ:Zph67rFs4hoC",
@@ -26,7 +26,7 @@
         "title": "Pass the baton: Trajectory-relayed on-policy distillation",
         "pub_year": "2026"
       },
-      "num_citations": 15,
+      "num_citations": 16,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679767045951045643,3391326149049423934"
     },
     "Wg2cuHUAAAAJ:QIV2ME_5wuYC": {
@@ -35,7 +35,7 @@
         "title": "Seeing but not thinking: Routing distraction in multimodal mixture-of-experts",
         "pub_year": "2026"
       },
-      "num_citations": 13,
+      "num_citations": 14,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168655311118755648"
     },
     "Wg2cuHUAAAAJ:MXK_kJrjxJIC": {
@@ -89,7 +89,7 @@
         "title": "Svgenius: Benchmarking llms in svg understanding, editing and generation",
         "pub_year": "2025"
       },
-      "num_citations": 33,
+      "num_citations": 34,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4301583774702433366,17907468025385834552"
     },
     "Wg2cuHUAAAAJ:d1gkVwhDpl0C": {
@@ -98,7 +98,7 @@
         "title": "A survey on (m) llm-based gui agents",
         "pub_year": "2025"
       },
-      "num_citations": 111,
+      "num_citations": 113,
       "cite_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686226610490188839,4768237544920555440,17298897713330488334"
     },
     "Wg2cuHUAAAAJ:hqOjcs7Dif8C": {
